@@ -46,6 +46,24 @@
 
 
 
+.carousel-content {
+    color:white;
+    display:block;
+    align-items:center;
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+}
+
+#text-carousel {
+  width: 100%;
+  height: auto;
+  padding: 10%;
+}
+
+.modal-content{
+  color: black;
+}
+
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }

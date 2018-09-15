@@ -47,11 +47,11 @@
 
 
 .carousel-content {
-    color:white;
+    color:black;
     display:block;
     align-items:center;
     font-family: 'Share Tech Mono', monospace;
-    text-align: center;
+    text-align: left;
 }
 
 #text-carousel {
